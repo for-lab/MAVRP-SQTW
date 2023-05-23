@@ -1,0 +1,2 @@
+# MAVRP-SQTW
+We generate the MAVRP-SQTW data sets Solomon_2type by modifying the well-known Solomon’s instances (Solomon, 1987), which include six classes (i.e., R1, C1, RC1, R2, C2 and RC2) and 56 instances. Compared with instances of types R2, C2 and RC2, instances of types R1, C1 and RC1 have a smaller vehicle capacity and tighter time windows. Every instance contains 1 depot and 100 customers with information on coordinates, demands, time windows and service times. 
